@@ -77,7 +77,7 @@ export default async function handler(req, res) {
       <html>
       <head><meta charset="UTF-8"><title>内容加载中</title></head>
       <body>
-        <h1>⏳ 内容加载中</h1>
+        <h1>内容加载中</h1>
         <p>请稍后再试，或直接访问 <a href="https://cuizi.top${req.url}">cuizi.top${req.url}</a></p>
       </body>
       </html>
